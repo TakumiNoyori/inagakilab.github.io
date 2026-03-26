@@ -165,6 +165,12 @@ main {
     background-color: #ffffff;
 }
 
+.mainImage {
+  width: 100vw;
+  margin: 0 calc(50% - 50vw);
+}
+
+
 .pageBodyHead {
     position: relative;
     width: 100%;
