@@ -232,8 +232,16 @@ main {
 
 .btn:hover {
   background: #ffa260;
+  color: #ffffff;
 }
 
+.btn::after {
+  content: "→";
+  position: absolute;
+  right: 10px;          /* ← 右端 */
+  top: 50%;
+  transform: translateY(-50%);
+}
 
 /* news */
 #news {
