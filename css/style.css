@@ -228,6 +228,7 @@ main {
   background: #eb6100;
   color: #ffffff;
   text-decoration:none; /* リンクの下線を消す */
+  position: relative; 
 }
 
 .btn:hover {
