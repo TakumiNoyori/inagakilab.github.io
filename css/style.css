@@ -73,23 +73,6 @@ figcaption {
     width: 350px;
 }
 
-#pageHead #header #siteTitle {
-    font-size: 30px;
-    line-height: 1.2;
-    margin: 0px;
-    padding: 5px 0px 0px 5px;
-    font-family: 'BioRhyme', serif;
-    font-weight: bold;
-}
-#pageHead #header #catchcopy {
-    font-size: 12px;
-    line-height: 1.5;
-    margin: 0px;
-    padding: 5px 0px 0px 5px;
-    font-family: 'BioRhyme', serif;
-    font-weight: bold;
-}
-
 /* グローバルナビ */
 #pageHead .globalNavi {
     padding: 0px;
@@ -114,7 +97,7 @@ figcaption {
     padding: 0px;
     box-sizing: border-box;
     text-align: center;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 1000;
 }
 
@@ -248,38 +231,7 @@ main {
 /* news */
 /* お知らせのリスト全体 */
 
-#news-list li {
-    display: flex;
-    gap: 20px;
-    padding: 8px 0;
-    border-bottom: 1px solid #ddd;
-    align-items: center;
-}
 
-/* 日付 */
-
-
-/* タグ共通 */
-.news-tag {
-    padding: 2px 8px;
-    border-radius: 4px;
-    color: #fff;
-    font-size: 0.8rem;
-    min-width: 50px;
-    text-align: center;
-    font-weight: bold;
-}
-
-/* タグ別の色分け */
-.tag-更新 {
-    background-color: #007acc;
-}
-.tag-論文 {
-    background-color: #d9534f;
-}
-.tag-受賞 {
-    background-color: #08a000;
-}
 
 
 /* Research page */
