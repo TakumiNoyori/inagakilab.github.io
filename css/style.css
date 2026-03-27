@@ -287,6 +287,17 @@ main {
   border-radius: 4px;
 }
 
+.newsIcon02 {
+  flex-shrink: 0;
+  width: 60px;
+  text-align: center;
+  font-size: 0.8rem;
+  color: #ffffff;
+  background: #362fff;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
 /* --- 日付 --- */
 .newsDate {
   flex-shrink: 0;
