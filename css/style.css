@@ -230,15 +230,15 @@ main {
 
 /* news */
 #news {
-    margin: 40px 0px;
-    background-color: rgb(255, 216, 172);
+    margin: 0px 40px;
+    background-color: rgb(255, 238, 218);
 }
 
 /* --- リスト --- */
 .newsList {
   max-height: 220px;      /* 5件分くらい */
   overflow-y: scroll; /* スクロールを表示 */
-  padding: 0;
+  padding: 0 20px;
   margin: 0;
   list-style: none;
 }
