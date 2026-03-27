@@ -420,28 +420,26 @@ main {
     }
 }
 
-
-
 /* Publication page */
 .publication {
     line-height: 1.5;
 
     & .title {
-        font-size: 16px;
+        font-size: 1.25rem;
         font-weight: bold;
-        margin: 20px 0px 0px 0px;
+        margin: 30px 0px 0px 0px;
         padding: 0.5em; /*文字周りの余白*/
         background: #fffaf4; /*背景色*/
         border-left: solid 5px #ffaf58; /*左線（実線 太さ 色）*/
     }
 
     & .information {
-        font-size: 14px;
+        font-size: 1rem;
         margin: 5px 0px 0px 10px;
     }
 
     & .explanation {
-        font-size: 14px;
+        font-size: 1rem;
         margin: 10px 0px 0px 10px;
     }
 }
