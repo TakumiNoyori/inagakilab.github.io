@@ -97,7 +97,7 @@ figcaption {
     padding: 0px;
     box-sizing: border-box;
     text-align: center;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 1000;
 }
 
@@ -278,6 +278,7 @@ main {
 .newsIcon01 {
   flex-shrink: 0;
   width: 60px;
+  font-size: 0.9rem;
   text-align: center;
   color: #ffffff;
   background: #ff3939;
@@ -289,6 +290,7 @@ main {
 .newsIcon02 {
   flex-shrink: 0;
   width: 60px;
+  font-size: 0.9rem;
   text-align: center;
   color: #ffffff;
   background: #362fff;
@@ -301,6 +303,7 @@ main {
 .newsDate {
   flex-shrink: 0;
   width: 100px;
+  font-size: 0.9rem;
   text-align: center;
   color: #666;
   align-self: center;
