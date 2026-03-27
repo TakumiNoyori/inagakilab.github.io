@@ -230,8 +230,14 @@ main {
 
 /* news */
 #news {
-    padding: 0px -50px;
+    padding: 30px 30px;
     background-color: #eaffec;
+}
+
+#news h2 {
+    margin: 0px;
+    padding: 0px;
+    align-items: center;
 }
 
 /* --- リスト --- */
