@@ -45,7 +45,8 @@ figcaption {
 /* ページヘッダー */
 #pageHead {
     width: 100%; 
-    padding: 5px 0px 5px 0px;
+    padding: 0;
+    margin: 0;
     position: fixed; /* 親要素に対して位置を固定 */
     background-color: #ffffff; /* スクロール時に透過しないように */
     border-bottom: 1px solid #cccccc;
