@@ -75,6 +75,7 @@ figcaption {
 
 #pageHead .headerTop {
     display: flex;
+    justify-content: flex-end;
 }
 
 /* グローバルナビ */
