@@ -86,7 +86,7 @@ figcaption {
 #pageHead .headerTop .jpButton {
     width: 40px;
     margin: 0 auto;
-    columns: #ffffff;
+    color: #ffffff;
     background-color: var(--main-color);
 }
 
