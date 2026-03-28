@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=BioRhyme:wght@300&display=swap');
 
 :root {
-  --main-color: #ff6a00;
+  --main-color: #08a000;
 }
 
 body {
@@ -109,7 +109,7 @@ figcaption {
 }
 
 #pageHead .globalNavi ul li a {
-    color: #08a000;
+    color: var(--main-color);
     text-decoration: none;
     display: block;
     padding: 5px 0;
@@ -488,7 +488,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #2f8f4a;   /* アイコン色（好みで変更） */
+  color: var(--main-color);   /* アイコン色（好みで変更） */
 }
 
 /* 情報部分 */
