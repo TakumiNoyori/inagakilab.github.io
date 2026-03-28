@@ -74,12 +74,12 @@ figcaption {
 }
 
 #pageHead .headerTop {
+    width: 200px;
     display: flex;
     justify-content: flex-end;
 }
 
 #pageHead .headerTop .instaLink {
-    width: 60px;
     margin: 0 auto;
 }
 
