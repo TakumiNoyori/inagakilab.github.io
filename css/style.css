@@ -174,7 +174,7 @@ main {
     overflow: hidden;*/ /* 画像がはみ出すのを防ぐ */
 
     width: 100vw;           /* 画面幅いっぱい */
-    height: auto;
+    height: 100px;
     display: block;
     /* 親要素の中央から左右にはみ出す */
     position: relative;
