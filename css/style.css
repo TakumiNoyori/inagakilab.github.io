@@ -81,14 +81,14 @@ figcaption {
 }
 
 #pageHead .headerTop .instaLink {
-    margin: 0 auto;
+    margin: auto;
 }
+
 
 #pageHead .headerTop .jpButton {
     width: 40px;
     margin: 5 0 5 auto;
     text-align: center;
-    justify-content: center;
     color: #ffffff;
     background-color: var(--main-color);
 }
@@ -97,7 +97,6 @@ figcaption {
     width: 40px;
     margin: 5 auto 5 0;
     text-align: center;
-    justify-content: center;
 }
 
 /* グローバルナビ */
