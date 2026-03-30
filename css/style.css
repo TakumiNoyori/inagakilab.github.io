@@ -96,6 +96,8 @@ figcaption {
     color: #ffffff;
     background-color: var(--main-color);
     border-radius: 6px 0 0 6px; /* 左上 左下 を丸める */
+    font-weight: 1000;
+    text-decoration: none;
 }
 
 #pageHead .headerTop .enButton {
@@ -105,6 +107,8 @@ figcaption {
     color: var(--main-color);
     background-color: var(--main-color-light);
     border-radius: 0 6px 6px 0; /* 右上 右下 を丸める */
+    font-weight: 1000;
+    text-decoration: none;
 }
 
 /* グローバルナビ */
