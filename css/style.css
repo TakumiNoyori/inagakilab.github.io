@@ -87,7 +87,7 @@ figcaption {
 
 #pageHead .headerTop .jpButton {
     width: 40px;
-    margin: 5 0 5 auto;
+    margin: 2.5px 0 2.5px auto;
     text-align: center;
     color: #ffffff;
     background-color: var(--main-color);
@@ -95,7 +95,7 @@ figcaption {
 
 #pageHead .headerTop .enButton {
     width: 40px;
-    margin: 5 auto 5 0;
+    margin: 2.5px auto 2.5px 0;
     text-align: center;
 }
 
