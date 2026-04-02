@@ -1,1 +1,3 @@
 title: "稲垣研究室"
+plugins:
+  - jekyll-sitemap
