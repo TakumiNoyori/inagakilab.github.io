@@ -637,7 +637,7 @@ main {
   .newsListItem {
     flex-direction: column;
     gap: 5px;
-    text-align: left;
+    align-items: flex-start;
   }
   
   .newsMeta {
@@ -645,6 +645,9 @@ main {
     gap: 10px;
   }
 
+  .newsContent {
+    width: 100%;
+  }
   .memberList {
     flex-direction: column;
   }
