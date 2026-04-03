@@ -127,23 +127,23 @@ figcaption {
 }
 
 /* グローバルナビ */
-#pageHead .globalNavi {
+.globalNavi {
     padding: 0px;
     width: 630px;
 }
 
-#pageHead .globalNavi ul {
+.globalNavi ul {
     margin: 0;
     padding: 0;
 }
 
-#pageHead .globalNavi ul::after {
+.globalNavi ul::after {
     content: "";
     clear: both;
     display: block;
 }
 
-#pageHead .globalNavi ul li {
+.globalNavi ul li {
     list-style: none;
     width: 126px;
     float: left;
@@ -154,19 +154,19 @@ figcaption {
     font-weight: 1000;
 }
 
-#pageHead .globalNavi ul li:first-child {
+.globalNavi ul li:first-child {
     border-left: none;
 }
 
-#pageHead .globalNavi ul li a {
+.globalNavi ul li a {
     color: var(--main-color);
     text-decoration: none;
     display: block;
     padding: 5px 0;
 }
 
-#pageHead .globalNavi ul li a:hover,
-#pageHead .globalNavi ul li.current a {
+.globalNavi ul li a:hover,
+.globalNavi ul li.current a {
     background-color: var(--main-color-light);
 }
 
