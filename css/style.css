@@ -637,7 +637,11 @@ main {
   .newsListItem {
     flex-direction: column;
   }
-
+  
+  .newsMeta {
+    display: flex;
+  }
+  
   .memberList {
     flex-direction: column;
   }
